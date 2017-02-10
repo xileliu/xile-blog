@@ -17,7 +17,6 @@ So, if you like this website <https://jarrekk.github.io/Jalpc/> or <http://www.j
 
 	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
 	<img src="{{ site.img_path }}/3steps/edit.gif" width="75%">
-
 2. Enter into repository directory and edit following file list:
 
 	* **_config.yml**: edit 'Website settings', 'author', 'comment' and 'analytics' items.
